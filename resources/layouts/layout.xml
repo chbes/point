@@ -1,0 +1,11 @@
+<layouts>
+    <layout id="Main">
+        <drawable id="line" />
+        <label id="Orientation" x="center" y="15" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+
+        <label id="Longitude" x="center" y="52" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+        <label id="Latitude" x="center" y="95" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+
+        <label id="Altitude" x="center" y="130" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+    </layout>
+</layouts>

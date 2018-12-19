@@ -1,0 +1,10 @@
+# generate program
+*.iq
+*.prg
+*.prg.*
+*.PRG.*
+*.PRG
+
+# developer key
+*.der
+*.pem
