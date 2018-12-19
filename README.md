@@ -12,7 +12,7 @@ This widget show your:
 
 * Altitude [ XXXXm ]
 
-## How it's work ?
+## How it's work
 
 When the watch don't get the GPS signal, the widget display XXXX value. And GPS signal is ready, the widget display right values.
 
@@ -21,5 +21,9 @@ When the watch don't get the GPS signal, the widget display XXXX value. And GPS 
 ## Watch support
 
 * Forerunner® 235
+
+## License
+
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for more details.
 
 I hope you'll enjoy it :v:
