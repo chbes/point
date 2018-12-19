@@ -14,7 +14,7 @@ This widget show your:
 
 ## How it's work
 
-When the watch don't get the GPS signal, the widget display XXXX value. And GPS signal is ready, the widget display right values.
+When the watch don't get the GPS signal, the widget display XXXX value. And when GPS signal is ready, the widget display right values.
 
 ![GPS OFF](screenshot_gps_off.png) ![GPS ON](screenshot_gps_on.png)
 
